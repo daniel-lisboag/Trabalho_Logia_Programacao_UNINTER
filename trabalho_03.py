@@ -25,7 +25,7 @@ def escolha_tipo():
             return 220.70
       else:
          # Retorna no começo do laço caso o usuário digite um tipo de madeira errado
-         print('Escolha inválida, entre com o modelo novamente')
+         print('Escolha inválida, entre com o tipo novamente')
          print('')
          continue
 
